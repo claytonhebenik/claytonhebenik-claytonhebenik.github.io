@@ -1,0 +1,4 @@
+.codekit-cache
+*.scss
+
+.htaccess-works
