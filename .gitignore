@@ -1,4 +1,6 @@
-.codekit-cache
+.sass-cache
+.codekit-cache/
+*.scssc
 *.scss
 
 .htaccess-works
