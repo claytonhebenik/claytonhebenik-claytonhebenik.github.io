@@ -1,4 +1,5 @@
 $(document).ready(function() {
+  callPage('work.html', '.content');
   $('.nav-link').on('click', function(e) {
     e.preventDefault();
     var pageRef = $(this).attr('href');
@@ -42,6 +43,6 @@ $(document).ready(function() {
   }
 
   $('.fancy').on('click', function() {
-    //$('body').toggleClass('fancy');
+    $('body').toggleClass('fancy');
   });
 });
