@@ -2,9 +2,12 @@
 *.scssc
 *.css.map
 
-.codekit-cache
+.codekit-cache/
 *.scss
 
 .htaccess-works
 
 config.codekit
+
+img/planet-creator.mp4
+img/planet-creator-logo.psd
